@@ -4,6 +4,12 @@ I have noticed that the solution of haptic feedback is something which has been 
 
 #system information
 The system consists of a sensorpad that measures the pressure of the device and relays this through a wired connection to the controller board. 
+The components used for the system are: 
+- Force sensitive resistors
+- Resistors (100kOhm)
+- Teensy 3.2
+
+
 The connections of the controller board can be seen on the schematic below
 Schematics/Print Schematic.png
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Schematics/Print%20Schematic.png)
