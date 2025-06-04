@@ -5,5 +5,5 @@ I have noticed that the solution of haptic feedback is something which has been 
 #system information
 The system consists of a sensorpad that measures the pressure of the device and relays this through a wired connection to the controller board. 
 The connections of the controller board can be seen on the schematic below
-![Alt text](Schematics/Print Schematic.png)
+Schematics/Print Schematic.png
 
