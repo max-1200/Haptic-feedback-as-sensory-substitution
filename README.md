@@ -14,5 +14,8 @@ The connections of the controller board can be seen on the schematic below
 Schematics/Print Schematic.png
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Schematics/Print%20Schematic.png)
 
+Image of the soldered and connected controller board 
+![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Pictures/IMG_20250605_113526931.png)
+
 # Future development
 Future development I would suggest is testing various placements of the haptic feedback on the body, creating smaller electronics solutions, better to distinguish haptics, and creating a wireless connection between sensors and insole.
