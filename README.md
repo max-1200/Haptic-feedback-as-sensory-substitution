@@ -14,7 +14,7 @@ The connections of the controller board can be seen on the schematic below
 Schematics/Print Schematic.png
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Schematics/Print%20Schematic.png)
 
-Image of the soldered and connected controller board 
+Image of the soldered and connected controller board in casing
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Pictures/IMG_20250605_113526931.png)
 
 # Future development
