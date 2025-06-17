@@ -20,4 +20,7 @@ Image of the insole with the inlayed wires
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Pictures/IMG_20250605_105818688.png)
 
 # Future development
-Future development I would suggest is testing various placements of the haptic feedback on the body, creating smaller electronics solutions, better to distinguish haptics, and creating a wireless connection between sensors and insole.
+- Testing various placements of the haptic feedback on the body
+- Creating smaller electronics solutions
+- Easier to distinguish haptics
+- Creating a wireless connection between sensors and insole.
