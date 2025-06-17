@@ -5,8 +5,8 @@ I have noticed that the solution of haptic feedback is something which has been 
 # Current system information
 The system consists of a sensorpad that measures the pressure of the device and relays this through a wired connection to the controller board. 
 The components used for the system are: 
-- Force sensitive resistors
-- Resistors (100kOhm)
+- 6x Force sensitive resistors 
+- 6x 100kOhm Resistors
 - Teensy 3.2
 
 
@@ -15,4 +15,4 @@ Schematics/Print Schematic.png
 ![Schematic](https://github.com/max-1200/Haptic-feedback-as-sensory-substitution/blob/main/Schematics/Print%20Schematic.png)
 
 # Future development
-Future development of the device will have to go into minitiurizing the electronics, testing various placements of the haptic feedback on the body. 
+Future development I would suggest is testing various placements of the haptic feedback on the body, creating smaller electronics solutions, better to distinguish haptics, and creating a wireless connection between sensors and insole.
